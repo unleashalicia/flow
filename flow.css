@@ -1,6 +1,6 @@
 body {
     overflow: hidden;
-    background: rgb(230, 230, 230);
+    background: lightskyblue;
 }
 
 #error {
@@ -31,7 +31,6 @@ body {
     position: absolute;
     top: 20px;
     right: 20px;
-
     text-align: right;
 
     user-select: none;
